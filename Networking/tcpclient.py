@@ -1,6 +1,7 @@
 import socket
 
-target_host = "www.beliven.com"
+#change as you need
+target_host = ""
 target_port = 80
 
 #create a socket object
